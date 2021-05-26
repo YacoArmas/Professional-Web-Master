@@ -2,3 +2,5 @@ Bananas
 Manzanas
 Mandarina
 Naranja
+Pan 
+Coca 
